@@ -15,3 +15,5 @@ Once data is edited from your phpMyAdmin database on your localhost, open your c
 
 <img width="683" alt="Screen Shot 2020-04-29 at 9 11 54 AM" src="https://user-images.githubusercontent.com/22375594/80606131-89347580-89f9-11ea-9691-57bdd6d52307.png">
 <img width="610" alt="Screen Shot 2020-04-29 at 9 12 07 AM" src="https://user-images.githubusercontent.com/22375594/80606132-89347580-89f9-11ea-9643-131d2debcb03.png">
+<img width="789" alt="Screen Shot 2020-04-29 at 9 13 27 AM" src="https://user-images.githubusercontent.com/22375594/80607272-ee3c9b00-89fa-11ea-9b5e-0b7541fad1be.png">
+

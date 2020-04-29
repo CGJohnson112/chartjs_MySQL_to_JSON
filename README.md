@@ -1,6 +1,7 @@
 # chartjs_MySQL_to_JSON
 Bar chart displaying data from .json file
 
+
 bargraph.html = see the bar graph data
 ontime.json = where the .json data lives, updated from your MySQL via the 'create_json_file.php' file
 'create_json_file.php' = takes in the updates from the database and refreshes the 'ontime.json' file.
@@ -10,6 +11,9 @@ Bar chart gets data from a .json file: the .json file gets data from a database 
 
 Once data is edited from your phpMyAdmin database on your localhost, open your create_json_file.php on the browser--this refreshes 
 .json data in 'ontime.json'. Then refresh your view page on 'bargraph.html', and the data will change.
+
+
+Next goal is to build this in React. Results will be posted, and this repo might be deleted once the better solution is in place. 
 
 
 
